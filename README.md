@@ -31,4 +31,4 @@ Designed to give your server that unfiltered, sarcastic personality no human sho
    git clone https://github.com/yourusername/sassy-bot.git
    cd sassy-bot
 ~~
-   ![Sassy Bot Example](assets/sassy_bot_example.png)
+   ![Sassy Bot Example](assets/sassy_bot_example(2).png)
