@@ -98,7 +98,7 @@ async def generate_ai_response(user_message: str, username: str) -> str:
 
 @bot.event
 async def on_ready():
-    print(f"🔥 MockBot AI is online as {bot.user}")
+    print(f" MockBot AI is online as {bot.user}")
 
 @bot.event
 async def on_message(message):
