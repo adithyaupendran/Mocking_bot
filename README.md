@@ -1,4 +1,4 @@
-# 🧠 Sassy Bot — The AI-Powered Attitude Machine
+#  Sassy Bot — The AI-Powered Attitude Machine
 
 Mocking Bot is a Discord chatbot powered by **Google Gemini AI**.  
 It’s rude, funny, occasionally flirty, and always has something to say — whether you want it to or not.  
@@ -6,17 +6,17 @@ Designed to give your server that unfiltered, sarcastic personality no human sho
 
 ---
 
-## ✨ Features
+##  Features
 
-- 💬 **AI-Powered Roasting:** Uses **Gemini AI** to generate creative, sassy, and teasing replies.  
-- 😏 **Flirty & Mocking Personality:** Balances chaos, confidence, and charm.  
-- 🤖 **Smart Context Detection:** Changes tone depending on what users say.  
-- ⚙️ **.env Support:** Keeps your API keys secure and hidden.  
-- 💅 **Customizable Prompts:** Tune its attitude — snarky, rude, flirtatious, or chill.  
+-  **AI-Powered Roasting:** Uses **Gemini AI** to generate creative, sassy, and teasing replies.  
+-  **Flirty & Mocking Personality:** Balances chaos, confidence, and charm.  
+-  **Smart Context Detection:** Changes tone depending on what users say.  
+-  **.env Support:** Keeps your API keys secure and hidden.  
+-  **Customizable Prompts:** Tune its attitude — snarky, rude, flirtatious, or chill.  
 
 ---
 
-## 🧩 Requirements
+##  Requirements
 
 - Python 3.9+
 - Discord bot token
